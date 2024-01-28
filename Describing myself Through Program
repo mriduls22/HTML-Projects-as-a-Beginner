@@ -1,30 +1,52 @@
 <!DOCTYPE html>
 <html>
-   <head>
-<center>
-      <ttile><h2>Basic Structure for Practices</h2></title>
-<hr>
-   </head>
-      <body>
-
-       <p>Hello<br>
-       <p>You <mark> <u><strike>dilivered </strike><i>delivered</i></u></mark> assignment on <del>time </del>time.<br>
-       <p><tt>MRIDUL SHARMA</tt></P>
-       <p>H<sub>2</sub>O, O<sub>2</sub></p>
-       <p>2<sup>10</sup>, 5<sup>10</sup></p>
-       <p><big>Biggest Text</big></p>
-       <p><small>Smallest Text</small></p>
-
-          "Thank&nbsp; You&nbsp." </p>
-       <p align="left">This is Left aligned text</p>
-       <p align="center">This is Center aligned text</p>
-       <p align="right">This is Right aligned text</p>
-       <p title="Html" id="html ">This explains what is HTML</p>
-       <p id="css">This explains what is Cascading Style Sheet</p>
-       <h3 title="Hello HTML">Titles Heading Tag Example</h3>
-       <p style="font-family:arial; color:#ff0000;"> Weeeeee</p>
-       <p>
-
-</center>
-      </body>
+<head>
+    <title>Basic HTML Program</title>
+</head>
+<body>
+    <h1>Beyond the Surface</h1>
+    
+    <p>From Code to Conversation.</p>
+    
+    <hr>
+    
+    <h2>About Me</h2>
+    
+    <p>Hello, my name is Mridul Sharma. From editing breathtaking cinematics to coding interactive elements, I bring together the best of both worlds, delivering seamless and immersive experiences..</p>
+    
+    <hr>
+    
+    <h3>Skills:</h3>
+    
+    <p>Here are some of my skills:</p>
+   
+       1. Video Editing<br>
+       2. Cinematics<br>
+       3. Css<br>
+       4. HTML<br>
+       5. Javascript<br>
+       6. Responsive Web Design
+    
+    <hr>
+    
+    <h4>Contact Information</h4>
+    
+    <p>You can reach me at:</p>
+    
+    <address>
+        Email: mriduls996@gmail.com<br>
+        Phone: xxxxxxxxxx
+    </address>
+    
+    <hr>
+    
+    <h4>My Social Handles:</h4>
+   
+        <a href="https://www.example.com">Instagram</a><br>
+        <a href="https://www.google.com">X</a><br>
+        <a href="https://www.google.com">Linkedin</a><br>
+        <a href="https://www.google.com">Facebook</a><br>
+        <a href="https://www.google.com">Youtube</a><br>
+          
+</body>
 </html>
